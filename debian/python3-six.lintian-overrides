@@ -1,0 +1,4 @@
+python3-six: copyright-without-copyright-notice
+python3-six: initial-upload-closes-no-bugs
+python3-six: no-manual-page
+python3-six: zero-byte-file-in-doc-directory
