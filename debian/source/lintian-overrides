@@ -1,0 +1,5 @@
+python-six source: file-without-copyright-information
+python-six source: no-debian-changes
+python-six source: source-contains-prebuilt-windows-binary
+python-six source: source-is-missing
+python-six source: source-package-encodes-python-version
